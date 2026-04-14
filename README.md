@@ -4,7 +4,7 @@ Linux Setup Guide Outline
 - Since this guide expects no experience with Linux, we'll also go over some basics of navigating the operating system (such as using the software manager, some basic terminal commands, and how to look for help online)
 
 You will need:
-- USB flash drive
+- USB flash drive (min. 8gb recommended)
 - Non-bluetooth keyboard (a mouse can be nice too but isn't required)
   - We'll need to be able to control the computer before we're in an operating system, and bluetooth devices won't be able to connect during those times
 - Technically optional but very recommended: a second hard drive/SSD. Internal will give you better reliability and speed, but external technically can work if it's all you have access to
@@ -26,4 +26,6 @@ Linux Installation
 	- If you don't have a second drive, you'll need to add a new partition to your main drive with enough space for Linux and all the apps + some space for recordings. I'd say no less than 64gb or even 128gb, but use what your resources allow
 	- BACKUP YOUR DRIVE BEFORE PARTITIONING, especially if you've never done it. Partitioning and formatting drives can destroy the data on those drives if not done carefully
 	- If the drive is external, plan to leave it plugged in whenever possible. Unplugging the drive while it's in use can corrupt the data on the drive or damage the drive itself.
-- Download 
+- Plug in your flash drive
+- Use Rufus and your Linux image to turn your flash drive into a bootable drive
+  - 
