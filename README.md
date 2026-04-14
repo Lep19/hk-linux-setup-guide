@@ -13,9 +13,13 @@ You will need:
   - https://rufus.ie/en/
 - A Linux image/ISO
   - I'd personally recommend an Ubuntu-based distro for their great compatibility and relative ease of use. Some examples:
-    - Zorin OS: My personal favorite. Designed to be intuitive for Windows users, has a nice UI, handles driver installs well, has dedicated forums for troubleshooting
-      - 
-    - Linux Mint: The classic easy-to-use Linux distro. 
+    - Zorin OS: My personal favorite. Designed to be intuitive for Windows users, has a nice UI, generally supports gaming without much fuss, has dedicated forums for troubleshooting
+      - https://zorin.com/os/download/
+    - Linux Mint: The classic beginner Linux distro. Has a slightly dated UI but an abundance of resources for troubleshooting
+      - https://linuxmint.com/download.php
+    - "Canonical" Ubuntu: The most widely used Linux distro. Has professional support teams and is extremely general-purpose, but can be a bit overwhelming and bloated for specific use-cases like ours
+      - https://ubuntu.com/download/desktop
+  - If you'd like to experiment with other types of Linux, Arch (SteamOS, Bazzite) and Fedora (Pop_OS!, Nobara) are other popular and well-supported choices
 
 Linux Installation
 - Install or plug in your second drive
