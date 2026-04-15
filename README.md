@@ -20,7 +20,7 @@ You will need:
       - https://linuxmint.com/download.php
     - "Canonical" Ubuntu: The most widely used Linux distro. Has professional support teams and is extremely general-purpose, but can be a bit overwhelming and bloated for more casual use-cases like ours
       - https://ubuntu.com/download/desktop
-  - If you'd like to experiment with other types of Linux, Arch (SteamOS, Bazzite) and Fedora (Pop_OS!, Nobara) are other popular and well-supported choices
+  - If you'd like to experiment with other types of Linux, Arch (SteamOS) and Fedora (Pop_OS!, Nobara) are other popular and well-supported choices
 
 Linux Installation
 - Install or plug in your second drive
